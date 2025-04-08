@@ -204,3 +204,4 @@ Save_MTX(MTX_cos_count, 'MTX_cos_count', path)
 
 - Este código está diseñado para análisis semántico basado en contexto (ventana de palabras).
 - El resultado final incluye matrices que permiten comparar palabras en base a su distribución contextual (similitud semántica).
+- **Importante:** Si se desea usar el visualizador hay que generar las matrices de similitud primero
